@@ -4,3 +4,4 @@ if vopros == "da":
     print ("molodez")
 else :
      print ("бодрствуй")
+print ("Good luck")
